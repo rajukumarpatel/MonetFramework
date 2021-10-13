@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<test name="Test">
+<classes>
+<class name="testScripts.SignupTestCase"/>
+<class name="testScripts.SignupNegativeTestCase"/>
+<class name="testScripts.SignInTestCase"/>
+<class name="testScripts.SignInNegativeTestCase"/>
+<class name="testScripts.ForgotPassWithInvalidOtp"/>
+<class name="testScripts.ForgotPassword"/>
+<class name="testScripts.IndexTestCase"/>
+<class name="testScripts.DashboardTestCase"/>
+<class name="testScripts.TestCasesofProfilePage"/>
+<class name="testScripts.NegativeTestcasesofProfilePage"/>
+<class name="testScripts.UploadContentTestCase"/>
+<class name="testScripts.NegativeTestCaseofUploadContent"/>
+<class name="testScripts.ConfigureAudience"/>
+<class name="testScripts.NegativeTestCaseofConfigureAudience"/>
+<class name="testScripts.ConfigurePreServey"/>
+<class name="testScripts.ConfigurePostSurvey"/>
+<class name="testScripts.ReviewandCheckout"/>
+
+
+</classes>
+
+</test>
+</suite>
+
